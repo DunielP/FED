@@ -10,6 +10,7 @@
 
 
 
+
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
@@ -28,4 +29,23 @@
 /****************/
 
 /* jouw code */
+
+body {
+	margin: 0;
+}
+
+	
+
+header a img{
+	height: 2em;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+main section a img {
+	max-width: 375px;
+}
+
+
 

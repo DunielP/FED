@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.apple.com/nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Apple home page 
+  
   <img src="readme-images/apple-home.png" width="375px" alt="Home pagina apple">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+ 
   <img src="readme-images/apple-koop.png" width="375px" alt="Apple koop pagina">
  
 </details>
@@ -90,15 +90,32 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  Deze week ben ik begonnen met het maken van mijn opdracht, door wat een andere deadline voor een herkansing had ik deze 
+  week niet super veel tijd maar dat is afgerond. Ik heb voor mijzelf wel duidelijk hoe ik het wil gaan doen. Ik loop nu tegen 
+  een aantal problemen/vragen. 
+  
+  1 Hoe zorg ik ervoor dat mijn afbeelding veranderd wanneer het scherm groter wordt? 
+
+  2 Hoe zet ik een linkje op een afbeelding?
+
+  3 Voor mijn header heb ik 4 icons, waarvan ik er 1 wil uitlijnen links boven en de andere 3 rechtsboven. Ik heb het geprobeerd met flexbox te veranderen
+  maar op de pagina werkt het niet (zie screenshot)
+
+  <img src="readme-images/navBar1" width="375px" alt="Afbeelding van hoe mijn header er nu uit ziet">
+  <img src="readme-images/Navbar2" width="375px" alt="Afbeelding van de code die ik gebruik">
+
+
+
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Daniel     | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
+
 
 
   ### Verslag van meeting
