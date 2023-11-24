@@ -116,6 +116,28 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
+  Daniel: 
+  
+  1 Hoe zorg ik ervoor dat mijn afbeelding veranderd wanneer het scherm groter wordt? 
+
+  2 Hoe zet ik een linkje op een afbeelding?
+
+  3 Voor mijn header heb ik 4 icons, waarvan ik er 1 wil uitlijnen links boven en de andere 3 rechtsboven. Ik heb het geprobeerd met flexbox te veranderen
+  maar op de pagina werkt het niet (zie screenshot)
+
+
+
+  Nicholas
+
+    Foto als achtergrond
+    margin links en rechts voor de hele pagina behalve de achtergrond
+
+  Ruby: 
+  Ik heb elementen hidden op scherm maar wel laten lezen door screenreaders
+
+  Beyzanur:
+
+  Ik wil een video toevoegen, maar ik wil niet dat deze automatisch begint wanneer je de pagina opent. Ik wil dat je zelf kunt klikken om de video te starten
 
 
   ### Verslag van meeting
