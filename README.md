@@ -58,6 +58,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+  Plusjes: 
+- screenreader leest woorden voor uit de linkjes zodat er, inplaats van “lees meer” wordt er wat meer informatie voorgelezen over de pagina waar het linkje naar toe leidt.
+- Apple maakt veelal gebruik van Div elementen in de HTML.
+
+
 </details>
 
 
