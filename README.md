@@ -44,11 +44,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
  
-  <img src="readme-images/apple-koop.png" width="375px" alt="Apple koop pagina">
+  <img src="readme-images/apple-support.png" width="375px" alt="Apple support pagina">
  
 </details>
 
-
+f
 
 ## Toegankelijkheidstest 1/2 (week 1)
 
@@ -130,8 +130,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   3 Voor mijn header heb ik 4 icons, waarvan ik er 1 wil uitlijnen links boven en de andere 3 rechtsboven. Ik heb het geprobeerd met flexbox te veranderen
   maar op de pagina werkt het niet (zie screenshot)
 
-
-
   Nicholas
 
     Foto als achtergrond
@@ -173,17 +171,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | Grid van 1 naar| en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
+
+  Daniël: - hoe laat ik de grid vanaf een grotere grootte veranderen van een 1 kolom's grid naar een 2 kolom's grid?
+   - 
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - Ik moet nog hard doorwerken, dit omdat een beetje achterloop en het lastig vind.
+  - Om de grid aan te passen kan ik deze code gebruiken: section a:nth-child(3n+1)  
+    grid-column: 1 / 3;
+  - 
 - ...
 
 </details>
@@ -212,7 +214,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik moet nog veel doen, ik vindt het lastig, maar ik moet het dit weekend en begin van volgende week af zien te krijgen.
 
 
   ### Agenda voor meeting
@@ -224,6 +226,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
+  Daniël: Hoe kan ik ervoor zorgen dat wanneer mijn schermbreedte groter is, mijn grid aanpast van 1 naar 4 vakjes.
+
+  Beyza: Ik heb een hamburgermenu met allemaal plaatjes. Hoe kan ik tekst aan die plaatjes toevoegen?
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen

@@ -1,0 +1,10 @@
+header  img {
+    width: auto;
+    min-height: 326px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
